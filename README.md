@@ -5,6 +5,7 @@ Architect and build the back end for an e-commerce site by modifying starter cod
 With a configured working Express.js API to use Sequelize to interact with a MySQL database.
 
 Example video soon..
+![Heroku](https://dashboard.heroku.com/pipelines/74ca015a-98da-45d5-a76b-32db9207ab8c)
 
 ## Installation
 Clone repository and run npm i to install packages and have node.js installed. Run source to set up database and run npm run seed to populate data. Finally run server with node server.js  .
